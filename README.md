@@ -68,7 +68,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### 2. Run the Python script
 
 ```bash
-python california_housing_regression.py
+python ml_regression_california_housing.py
 ```
 
 The dataset is loaded through Scikit-learn. An internet connection may be required for the initial download.
