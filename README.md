@@ -88,4 +88,8 @@ This project is part of my ongoing machine learning portfolio. I will continue b
 
 ## Author
 
-Machine Learning / AI Engineering Learner
+**Owais Ali**
+
+Aspiring Machine Learning / AI Engineer
+
+GitHub: https://github.com/oz-owaiz
